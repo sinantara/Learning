@@ -1,1 +1,2 @@
-console.log('Hello Git!')
+if (1 == 2)
+    process.exit()
