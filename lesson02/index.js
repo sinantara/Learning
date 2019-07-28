@@ -1,2 +1,2 @@
 if (1 == 2)
-    process.exit()
+    process.exit(1)
